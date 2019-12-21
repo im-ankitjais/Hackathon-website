@@ -10,13 +10,13 @@
 }
 
 #call-to-action h3 {
-  color: rgb(8, 8, 8);
+  color: white;
   font-size: 28px;
   font-weight: 700;
 }
 
 #call-to-action p {
-  color: rgb(0, 0, 0);
+  color: white;
   font-weight: 800;
 }
 
@@ -32,7 +32,7 @@
   transition: 0.5s;
   margin-top: 10px;
   border: 2px solid rgb(0, 0, 0);
-  color: rgb(0, 0, 0);
+  color: white;
 }
 
 #call-to-action .cta-btn:hover {
